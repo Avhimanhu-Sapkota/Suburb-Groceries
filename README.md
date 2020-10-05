@@ -1,5 +1,5 @@
 # Suburb-Groceries
-<<<<<<< HEAD
+
 Suburb Groceries is an e-commerce based website where user can browse, search, categorise, manage, sort and buy products. It also allows PHP CRUD and Oracle Application - Interface
 =======
 Suburb Groceries is an e-commerce based grocery website. It has customer interface where customer can browse products and navigate them, sort them, categorise them, review and add them to cart. It also allows facility to login and sign up including email verification. Website uses PayPal sandbox integration for buying products. Also, has traders' interface which allows traders to manage shops, products and offers. 
